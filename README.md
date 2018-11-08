@@ -24,3 +24,15 @@ TODO :
 - [ ] Continuous Integration
 - [ ] Continuous Delivery
 - [ ] Continuous Deployment     
+
+<a>
+  <img src="https://github.com/stan-alam/RoadMap/blob/develop/svg_files/Notebook3-0.svg" width="75%" height="75%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/RoadMap/blob/develop/svg_files/Notebook3-1.svg" width="75%" height="75%">
+</a>
+
+<a>
+  <img src="https://github.com/stan-alam/RoadMap/blob/develop/svg_files/Notebook3-2.svg" width="75%" height="75%">
+</a>
