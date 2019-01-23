@@ -1,27 +1,25 @@
 ## Web Development 2019
 
-```text
+Objectives :
 
-    HTML5
+- [ ]  HTML5
 
-    CSS
+- [ ]  CSS  
 
-    Bootstrap 4
+- [ ] Bootstrap 4
 
-    Javascript (ES6/ES7/ES8)
+- [ ] Javascript (ES6/ES7/ES8)
 
-    React + Redux
+- [ ] React + Redux
 
-    Git + Github
+- [ ] Node.js
 
-    Node.js
+- [ ] Express.js
 
-    Express.js
+- [ ] NPM
 
-    NPM
+- [ ] PostgresSQL
 
-    PostgresSQL
+- [ ] SQL
 
-    SQL
-
-```
+- [ ] Git - working with teams
